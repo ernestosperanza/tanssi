@@ -254,7 +254,7 @@
                 "download-polkadot.sh",
                 "compile-wasm.ts compile -b ../target/release/tanssi-node -o wasm -c specs/tanssi-1000.json",
                 "compile-wasm.ts compile -b ../target/release/container-chain-simple-node -o wasm -c specs/template-container-2000.json",
-                "compile-wasm.ts compile -b ../target/release/container-chain-frontier-node -o wasm -c specs/template-container-2001.json"
+                "compile-wasm.ts compile -b ../target/release/container-chain-move-node -o wasm -c specs/template-container-2001.json"
             ],
             "foundation": {
                 "type": "zombie",
